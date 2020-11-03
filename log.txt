@@ -1,0 +1,35 @@
+2020-11-03 23:06:59 com.pages.AmazonPage INFO Get Text for element is successful
+2020-11-03 23:07:01 com.framework.BaseTestCase INFO Driver Instance is closed successfully
+2020-11-03 23:08:13 com.framework.BaseTestCase INFO Driver Initialization done
+2020-11-03 23:08:28 com.pages.AmazonPage INFO Data entered on textfield : iphone 11 64gb white
+2020-11-03 23:08:32 com.pages.AmazonPage INFO clicked on search button
+2020-11-03 23:08:35 com.pages.AmazonPage INFO clicked on phone
+2020-11-03 23:08:43 com.pages.AmazonPage INFO Get Text for element is successful
+2020-11-03 23:08:56 com.pages.FlipkartPage INFO clicked on alert start page
+2020-11-03 23:08:56 com.pages.FlipkartPage INFO Data entered on textfield : iphone 11 64gb white
+2020-11-03 23:08:59 com.pages.FlipkartPage INFO clicked on search button
+2020-11-03 23:09:02 com.pages.FlipkartPage INFO clicked on iphone 
+2020-11-03 23:09:09 com.pages.FlipkartPage INFO get flipkart iphone price
+2020-11-03 23:09:10 com.framework.BaseTestCase INFO Driver Instance is closed successfully
+2020-11-03 23:13:41 com.framework.BaseTestCase INFO Driver Initialization done
+2020-11-03 23:13:54 com.pages.AmazonPage INFO Data entered on textfield : iphone 11 64gb white
+2020-11-03 23:14:02 com.pages.AmazonPage INFO clicked on search button
+2020-11-03 23:14:06 com.pages.AmazonPage INFO clicked on phone
+2020-11-03 23:14:15 com.pages.AmazonPage INFO Get Text for element is successful
+2020-11-03 23:14:35 com.pages.FlipkartPage INFO clicked on alert start page
+2020-11-03 23:14:35 com.pages.FlipkartPage INFO Data entered on textfield : iphone 11 64gb white
+2020-11-03 23:14:37 com.pages.FlipkartPage INFO clicked on search button
+2020-11-03 23:14:42 com.pages.FlipkartPage INFO clicked on iphone 
+2020-11-03 23:14:49 com.pages.FlipkartPage INFO get flipkart iphone price
+2020-11-03 23:14:50 com.framework.BaseTestCase INFO Driver Instance is closed successfully
+2020-11-03 23:15:49 com.framework.BaseTestCase INFO Driver Initialization done
+2020-11-03 23:16:07 com.pages.AmazonPage INFO Data entered on textfield : iphone 11 64gb white
+2020-11-03 23:16:14 com.pages.AmazonPage INFO clicked on search button
+2020-11-03 23:16:17 com.pages.AmazonPage INFO clicked on phone
+2020-11-03 23:16:26 com.pages.AmazonPage INFO Get Text for element is successful
+2020-11-03 23:16:38 com.pages.FlipkartPage INFO clicked on alert start page
+2020-11-03 23:16:38 com.pages.FlipkartPage INFO Data entered on textfield : iphone 11 64gb white
+2020-11-03 23:16:40 com.pages.FlipkartPage INFO clicked on search button
+2020-11-03 23:16:45 com.pages.FlipkartPage INFO clicked on iphone 
+2020-11-03 23:16:51 com.pages.FlipkartPage INFO get flipkart iphone price
+2020-11-03 23:16:52 com.framework.BaseTestCase INFO Driver Instance is closed successfully
